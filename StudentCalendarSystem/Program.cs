@@ -46,7 +46,7 @@ namespace StudentCalendar
                         Console.WriteLine("-----------------------------------");
                         return;
                       
-                 
+
 
                     default:
                         Console.WriteLine("Invalid option.");

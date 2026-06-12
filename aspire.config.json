@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "StudentCalendarSystem.API.AppHost/StudentCalendarSystem.API.AppHost.csproj"
+  }
+}

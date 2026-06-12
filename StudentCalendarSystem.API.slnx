@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../StudentCalendarSystem/StudentCalendarSystem/StudentCalendarSystem.csproj" />
+  <Project Path="StudentCalendarSystem.API.AppHost/StudentCalendarSystem.API.AppHost.csproj" />
+  <Project Path="StudentCalendarSystem.API.Server/StudentCalendarSystem.API.Server.csproj" />
+</Solution>

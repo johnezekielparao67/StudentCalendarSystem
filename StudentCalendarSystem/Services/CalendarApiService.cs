@@ -81,7 +81,7 @@ namespace StudentCalendar.Services
             return true;
         }
 
-        // 5. DELETE EVENT (Magbura)
+        // 5. DELETE EVENT
         public bool DeleteEvent(string name)
         {
             var existingEvent = _events.FirstOrDefault(e => e.Name.Equals(name, StringComparison.OrdinalIgnoreCase));
